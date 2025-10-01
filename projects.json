@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "id": 101,
+      "title": "6\" Red Oak Hardwood Installation Service",
+      "category": "Hardwood",
+      "excerpt": "Installing 6 inch red oak, site finished, requiring a lot of leveling in a 112 years old house",
+      "description": "Installing 6 inch red oak, site finished, requiring a lot of leveling in a 112 years old house",
+      "slug": "hardwood-6-red-oak-101",
+      "location": [
+        41.723119109628875,
+        -88.14503973201094
+      ],
+      "thumb": ".thumb/",
+      "web": ".web/",
+      "complete_date": "2024-02-15",
+      "f-image": "Resized_20190201_180149.jpg",
+      "image-00": "Resized_20190122_100008.jpg",
+      "image-01": "Resized_20190122_131756.jpg",
+      "image-02": "Resized_20190122_131807.jpg",
+      "image-03": "Resized_20190201_175706.jpg",
+      "image-04": "Resized_20190201_175815.jpg",
+      "image-05": "Resized_20190201_175718.jpg",
+      "image-06": "Resized_20190122_131816.jpg"
+    },
+    {
+      "id": 301,
+      "title": "Refinish Hardwood Dark Walnut Staircase",
+      "category": "Staircases",
+      "excerpt": "3 inch wide red oak, select, dark walnut stain with refinishing of staircase",
+      "description": "3 inch wide red oak, select, dark walnut stain with refinishing of staircase",
+      "slug": "staircases-refinish-red-oak-301",
+      "location": [
+        41.72397589477297,
+        -88.1439347043486
+      ],
+      "thumb": ".thumb/",
+      "web": ".web/",
+      "complete_date": "2024-02-15",
+      "f-image": "IMG-370b5014c7c96c16e43c0f4bb8dd6072-V.jpg",
+      "image-00": "IMG-0bc6fdd122798a40fe3a1798ac4f4989-V.jpg",
+      "image-01": "IMG-1f6c263b9cb4f1171ff6d2d6bfd624c5-V.jpg",
+      "image-02": "IMG-2b3a847b2649f41728a6d0a2523b73bd-V.jpg",
+      "image-03": "IMG-25c499aeab8e2229ff82fe5ba3816138-V.jpg",
+      "image-04": "IMG-95eccb5d975e7227491a9860abbf6d31-V.jpg",
+      "image-05": "IMG-97d38db73399dc0974bdf2eb87bcbdbc-V.jpg",
+      "image-06": "IMG-d8073c04a34ade1c7d199efb5706067e-V.jpg",
+      "image-07": "IMG-dc7917970fc69591d90d050f25ae5f86-V.jpg"
+    }
+	]
+}

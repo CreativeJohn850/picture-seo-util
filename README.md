@@ -1,0 +1,1 @@
+# Picture seo utility: takes pictures: jpg, jpeg or png, ads metadata if necessary, ads location, creates a folder for each project, renames with the slug all the files + seo suffix and exports the pictures as webp
